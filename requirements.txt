@@ -1,0 +1,6 @@
+streamlit>=1.42
+Authlib>=1.3.2
+SQLAlchemy>=2.0
+psycopg[binary]
+pandas
+altair
